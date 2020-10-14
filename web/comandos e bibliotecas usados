@@ -1,0 +1,8 @@
+yarn create react-app web --template typescript
+yarn add styled-components
+yarn add @types/styled-components -D
+yarn add react-icons
+yarn add react-router-dom
+yarn add @types/react-router-dom -D 
+yarn add leaflet react-leaflet
+yarn @types/react-leaflet -D
