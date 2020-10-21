@@ -7,7 +7,7 @@ import {
     Location
 } from './styles';
 
-import logoImage from '../../assets/images/logo.svg'
+import logoImage from '../../assets/images/logo.svg';
 import {FiArrowRight} from 'react-icons/fi';
 
 const Landing: React.FC = () => {
